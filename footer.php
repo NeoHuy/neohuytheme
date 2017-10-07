@@ -28,6 +28,15 @@
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
+<!-- scripts -->
+<script src="assets/vendor/jquery/jquery-1.7.2.min.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/vendor/superfish/superfish.js"></script>
+<script src="assets/vendor/jquery/jquery.scrolltotop.js"></script>
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script src="js/respond.min.js"></script>
+<![endif]-->
 <?php wp_footer(); ?>
 
 </body>
